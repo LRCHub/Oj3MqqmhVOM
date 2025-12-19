@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "ポラリス",
+  "base_artist": "Base Ball Bear",
+  "createdAt": "2025-12-19T00:25:47.982589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "Masayuki Suzuki",
+      "has_synced": true,
+      "path": "select/01_ポラリス_Masayuki_Suzuki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "鈴木雅之",
+      "has_synced": true,
+      "path": "select/02_ポラリス_鈴木雅之.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/03_ポラリス_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/04_ポラリス_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポラリス(TV size)",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/05_ポラリス(TV_size)_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ポラリス[Instrumental\u0000TV size]",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/06_ポラリス[Instrumental\u0000TV_size]_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ポラリス[TV size]",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/07_ポラリス[TV_size]_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/08_ポラリス_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ポラリス (haruka nakamura ursa remix) - Haruka Nakamura Ursa Remix",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/09_ポラリス_(haruka_nakamura_ursa_remix)_-_Haruka_Nakamura_Ursa_Remix_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ポラリス (haruka nakamura ursa remix)",
+      "artist": "Aimer",
+      "has_synced": true,
+      "path": "select/10_ポラリス_(haruka_nakamura_ursa_remix)_Aimer.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "ヒトリエ",
+      "has_synced": true,
+      "path": "select/11_ポラリス_ヒトリエ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "Hitorie",
+      "has_synced": true,
+      "path": "select/12_ポラリス_Hitorie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "怪獣ピノ・ポラリス",
+      "artist": "Kikuo",
+      "has_synced": false,
+      "path": "select/13_怪獣ピノ・ポラリス_Kikuo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "怪獣ピノ・ポラリス",
+      "artist": "きくお",
+      "has_synced": false,
+      "path": "select/14_怪獣ピノ・ポラリス_きくお.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ポラリス",
+      "artist": "BLUE ENCOUNT",
+      "has_synced": true,
+      "path": "select/15_ポラリス_BLUE_ENCOUNT.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ポラリス",
+      "artist": "BaseBallBear",
+      "has_synced": false,
+      "path": "select/pl_01_ポラリス_BaseBallBear.txt"
+    }
+  ]
+}
